@@ -3,7 +3,7 @@ class people::drumsrgr8forn8 {
   include skitch
   include postgresql
   include chrome
-  include iterm2
+  include iterm2::stable
   include sublime_text_2
   include erlang
   include hipchat
